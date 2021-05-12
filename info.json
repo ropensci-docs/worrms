@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e5ba9f36c3cf2d284a459ff2af196cf9ecc2eae3",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-12 20:14:36",
+    "files": 1,
+    "merge": false,
+    "message": "remove LazyData from DESCRIPTION file, no data files\n"
+  },
+  "remote": "https://github.com/ropensci/worrms",
+  "pkg": "worrms"
+}

@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  worrms: worrms.html
+last_built: 2021-07-15T11:48Z
+urls:
+  reference: https://docs.ropensci.org/worrms/reference
+  article: https://docs.ropensci.org/worrms/articles
+
