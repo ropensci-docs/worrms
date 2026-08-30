@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c5fe3938cf321aafa7a24709578bcfa181261b28",
+    "author": "salvafern <salvador.fernandez@vliz.be>",
+    "time": "2024-01-15T13:38:25Z",
+    "files": 1,
+    "merge": false,
+    "message": "Add codemeta\n"
+  },
+  "repo": "https://github.com/ropensci/worrms",
+  "pkg": "worrms",
+  "time": "2026-08-30T07:15:21Z"
+}
